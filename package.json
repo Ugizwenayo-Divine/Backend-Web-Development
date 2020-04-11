@@ -1,0 +1,29 @@
+{
+  "name": "Backend-Web-Development",
+  "version": "1.0.0",
+  "description": "Backend web development using node, express and PostgreSQL in JavaScript with ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ugizwenayo-Divine/Backend-Web-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ugizwenayo-Divine/Backend-Web-Development/issues"
+  },
+  "homepage": "https://github.com/Ugizwenayo-Divine/Backend-Web-Development#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
